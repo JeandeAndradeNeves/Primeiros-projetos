@@ -1,22 +1,22 @@
 *{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-family: Verdana;
-    color: antiquewhite;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Verdana;
+  color: antiquewhite;
 }
 body{
-    width: 400px;
-    height: 400px;
-    display: flex;
-    flex-direction: column;
-    background-color: rgb(37, 35, 35);
-    margin:50px auto;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(37, 35, 35);
+  margin:50px auto;
   text-align:center;
 }
 h1{
-    text-align: center;
-    font-size:60px;
+  text-align: center;
+  font-size:60px;
   margin:20px;
   color:orange;
   font-family:verdna
