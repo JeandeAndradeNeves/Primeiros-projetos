@@ -1,5 +1,5 @@
 
 
-let convidadosJean = ["Ana","Lyliane","Natalia","Geova","Itamar","Yago","Francisca","Geraldo","Joice","Jamile","Hellen"];
+let convidadosJean = ["Ana","Lyliane","Natalia","Geova","Itamar","Yago","Francisca","Geraldo","Joice","Jamile","Helen"]
 
-export default convidadosJean;
+module.exports = {convidadosJean};

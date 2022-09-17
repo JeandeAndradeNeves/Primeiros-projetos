@@ -1,4 +1,4 @@
-import convidadosJean from './dados/dados.js';
+const {convidadosJean} = require('./dados/dados.js');
 
 
 function verificarEntrada (convidadosJean) {
